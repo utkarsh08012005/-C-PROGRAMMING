@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "C1.C": "cpp",
+        "C2.C": "cpp",
+        "C3.C": "cpp",
+        "C21.C": "cpp"
+    },
+    "git.ignoreLimitWarning": true
+}
